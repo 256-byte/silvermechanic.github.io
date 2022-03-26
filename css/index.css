@@ -48,3 +48,7 @@ div.desc {
   display: table;
   clear: both;
 }
+
+.contact-right {
+  float: right;
+}
